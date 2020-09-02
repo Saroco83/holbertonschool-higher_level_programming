@@ -1,2 +1,2 @@
-sr/bin/python
+#!/usr/bin/python
 import this
